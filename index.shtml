@@ -1,5 +1,9 @@
-{% include head.shtml %}
-<!--#include virtual="head.shtml" -->
+---
+layout: default
+title: Home
+---
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
 
 <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
 <div class="container">
@@ -78,7 +82,3 @@ New York City, NY, 10027.
 
 </div>
 </div>
-
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<!--#include virtual="foot.shtml" -->
-{% include foot.shtml %}
