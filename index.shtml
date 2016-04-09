@@ -1,3 +1,4 @@
+{% include head.shtml %}
 <!--#include virtual="head.shtml" -->
 
 <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
@@ -80,3 +81,4 @@ New York City, NY, 10027.
 
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <!--#include virtual="foot.shtml" -->
+{% include foot.shtml %}
