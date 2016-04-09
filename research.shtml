@@ -1,4 +1,8 @@
-<!--#include virtual="head.shtml" -->
+---
+layout: default
+---
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
 
 <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
 <div class="container">
@@ -149,6 +153,3 @@ What about my <a href="erdos.shtml">Erd&#337;s Number</a>?
 </p>
 
 </div>
-
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<!--#include virtual="foot.shtml" -->

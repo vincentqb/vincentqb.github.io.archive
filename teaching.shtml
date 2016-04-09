@@ -1,4 +1,8 @@
-<!--#include virtual="head.shtml" -->
+---
+layout: default
+---
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
 
 <div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
 <div class="container">
@@ -146,6 +150,3 @@ or <a href="http://miktex.org/">MiKTeX</a> (Windows).
 -->
 
 </div>
-
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<!--#include virtual="foot.shtml" -->
