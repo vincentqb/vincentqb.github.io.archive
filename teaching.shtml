@@ -43,7 +43,7 @@ This spring, I am teaching <a href="http://apam.columbia.edu/apam-courses">APMA 
 <div class="col-md-4 col-sm-6">
 <h2>Contact</h2>
 <p>Email at <a href="mailto:vq2111@columbia.edu">vq2111@columbia.edu</a>. 
-Office in
+<br>Office in
 <a itemprop="url" href="http://facilities.columbia.edu/building-information/703">Engineering Terrace 287E</a>.  
 <!--<br>Office hours Mondays 3:30-5pm. APAM closes at 5pm!-->
 </p>
@@ -69,7 +69,6 @@ and mixed finite elements with accompagnying codes
 <a href="docs/poisson-mixed.html">2</a> 
 and 
 <a href="http://fenicsproject.org/documentation/dolfin/1.2.0/python/demo/pde/mixed-poisson/python/documentation.html">FEniCS demo</a>.
-Here is another <a href="docs/torus-code.html">example</a>.
 </p>
 </div>
 
