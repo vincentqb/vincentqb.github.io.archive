@@ -1,0 +1,67 @@
+<!--#include virtual="head.shtml" -->
+
+<div class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="index.shtml">Vincent Quenneville-B&eacute;lair</a>
+</div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href="index.shtml">Contact</a></li>
+<li><a href="research.shtml">Research</a></li>
+<li><a href="teaching.shtml">Teaching</a></li>
+<li><a href="hiking.shtml">Hiking</a></li>
+</ul>
+</div><!--/.nav-collapse -->
+
+</div>
+</div>
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+
+<div class="jumbotron">
+<div class="container">
+<h1>Erd&#337;s Number</h1>
+<p>An upper bound on my Number is 4.</p>
+</div>
+</div>
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+
+<div class="container">
+<div class="row">
+
+<div class="col-md-6">
+<h2>Explanations</h2>
+<p>The Erd&#337;s Number is defined inductively. Paul Erd&#337;s has Number 0 and someone else has Number n if the smallest Number among his collaborators is n-1. In general, finding an upper bound is relatively easy, but proving such bound is sharp is much more difficult. In my case, an upper bound, discovered with the help of <a href="http://www.ams.org/mathscinet/collaborationDistance.html">MathSciNet</a>, is 4.</p>
+</div>
+
+<div class="col-md-6">
+<h2>Proof</h2>
+<ol reversed>
+<li>Vincent Quenneville-B&eacute;lair coauthored with Bernardo Cockburn.
+<a href="http://www.ams.org/mathscinet-getitem?mr=3120582">MR3120582</a>
+</li>
+<li>Bernardo Cockburn coauthored with Joseph W. Jerome.
+<a href="http://www.ams.org/mathscinet-getitem?mr=1842170">MR1842170</a>
+</li>
+<li>Joseph W. Jerome coauthored with Michael Golomb. 
+<a href="http://www.ams.org/mathscinet-getitem?mr=269918">MR0269918 (42 #4811)</a>
+<li>Michael Golomb coauthored with Paul Erd&#337;s.
+<a href="http://www.ams.org/mathscinet-getitem?mr=68723">MR0068723 (16,931e)</a></li>
+</ol>
+</div>
+
+</div>
+</div>
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!--#include virtual="foot.shtml" -->

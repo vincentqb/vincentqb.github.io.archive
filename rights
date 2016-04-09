@@ -1,0 +1,6 @@
+chmod a+r docs/*.pdf
+chmod a+r *.shtml *.css {font-cmun-sans,docs,images}/*.{shtml,html} images/*.{gif,jpg,png}
+chmod a+rx font-cmun-sans docs images
+chmod a-x *.shtml *.css {font-cmun-sans,docs,images}/*.{shtml,html} images/*.{gif,jpg,png}
+chmod 700 rights .svn
+chmod 600 docs/Makefile

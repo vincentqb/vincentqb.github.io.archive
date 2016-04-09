@@ -1,0 +1,63 @@
+/*** Move down content because we have a fixed navbar that is 50px tall ***/
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+/*
+body {
+	padding-top: 70px;
+}
+*/
+
+/*** Global font to use ***/
+* {
+	font-family: 'Computer Modern Sans', 'Roboto', 'Ubuntu', verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+/*** Colors ***/
+
+a {
+  	color: #6a0025;
+}
+
+a:hover, a:focus, a:active {
+  	color: #6a0025;
+}
+
+.text-muted a {
+	color: #999
+}
+
+/* Custom page footer */
+/*
+.footer {
+	padding-top: 19px;
+	color: #777;
+	border-top: 1px solid #e5e5e5;
+}
+
+footer {
+	color: #777;
+}
+*/
+
+/*
+.navbar-inverse {
+	background-color: #6a0025;
+	border-color: #080808;
+}
+*/
+
+/*
+.jumbotron {
+	background-color: #e4d4da;
+	background-color: #e8dde1;
+	background-color: #f3eaed;
+	background-color: #faf5f7;
+	background-color: #f7f2f4;
+
+	background-color: #fafafa;
+	background-color: #f7f7f7;
+}
+*/

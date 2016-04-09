@@ -1,0 +1,18 @@
+
+<div class="container">
+<hr>
+<footer>
+<p><small>&copy; Vincent Quenneville-B&eacute;lair</small></p>
+<!--<p>The views and opinions expressed in this page are strictly those of the page author. The contents of this page have not been reviewed or approved by the University of Minnesota.</p>-->
+</footer>
+</div> <!-- /container -->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- <script src="js/bootstrap.min.js"></script> -->
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+</body>
+</html>
