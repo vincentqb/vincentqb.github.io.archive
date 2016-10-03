@@ -1,0 +1,5 @@
+[Waves 1D](https://www.youtube.com/watch?v=y66PSaiGH7Y)
+[Waves 2D](https://www.youtube.com/watch?annotation_id=annotation_964432&feature=iv&src_vid=wvJAgrUBF4w&v=1yaqUI4b974)
+[Visualization 1D](https://www.youtube.com/watch?v=pWekXMZJ2zM)
+[Sound 1D](https://youtu.be/4gCKlWi8hJA?t=3m)
+[Sound 2D](https://youtu.be/2awbKQ2DLRE?t=1m30s)
